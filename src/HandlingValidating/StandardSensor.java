@@ -1,4 +1,4 @@
-package Handling;
+package HandlingValidating;
 
 public class StandardSensor implements Sensor {
 

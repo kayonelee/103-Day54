@@ -1,4 +1,4 @@
-package Validating;
+package HandlingValidating;
 public class Calculator {
 
     public int factorial(int num) {

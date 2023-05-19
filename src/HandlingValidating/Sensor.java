@@ -1,4 +1,4 @@
-package Handling;
+package HandlingValidating;
 
 public interface Sensor {
     // IF THE SENSOR IS ON-WILL RETURN TRUE \ IF OFF RETURN FALSE
